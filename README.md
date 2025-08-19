@@ -1,6 +1,6 @@
 # Gabarits de mise en page HTML et CSS
 
-Ces gabarits ont été créés initialement en 2008 par Florens Verschelde, pour la formation Elephorm «&#8239;Apprendre XHTML et CSS&#8239;», en partenariat avec [Alsacréations(https://alsacreations.com)].
+Ces gabarits ont été créés initialement en 2008 par Florens Verschelde, pour la formation Elephorm «&#8239;Apprendre XHTML et CSS&#8239;», en partenariat avec [Alsacréations](https://alsacreations.com).
 
 ## Version 2024
 
