@@ -18,4 +18,4 @@ La version 2008 est présentée ici comme un artefact historique. Veuillez utili
 
 Mis à disposition sous licence : [Creative Commons BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/).
 
-Source : [https://github.com/andre-vincent/gabarits-html/](https://github.com/andre-vincent/gabarits-html/edit/main/README.md)
+Source : [https://github.com/andre-vincent/gabarits-html/](https://github.com/andre-vincent/gabarits-html/)
