@@ -1,21 +1,19 @@
-# HTML and CSS layout templates
+# Gabarits de mise en page HTML et CSS
 
-This is a series of HTML and CSS layouts that I originally created for a video course on HTML and CSS back in 2008, then updated in 2024 using modern layout techniques (including Flexbox, CSS Grid, and mobile-first responsive styles).
+Ces gabarits ont été créés initialement en 2008 par Florens Verschelde, pour la formation Elephorm «&#8239;Apprendre XHTML et CSS&#8239;», en partenariat avec [Alsacréations(https://alsacreations.com)].
 
-All content beyond this README is in French.
+## Version 2024
 
-## 2024 version
+Le dossier `2024` contient des mises en page mises à jour. Vous remarquerez que bien que le code lui-même soit mis à jour pour utiliser des techniques de mise en page modernes, les modèles de conception globaux utilisés sont un peu datés. Créer une mise en page à plusieurs colonnes et mettre la plupart du contenu dans la colonne centrale faisait fureur au milieu des années 2000, mais dans les années 2010, la tendance était de couper une page Web en 5 à 20 grandes sections pleine largeur, chacune avec sa propre mise en page dédiée.
 
-The `2024` folder contains updated layouts. You’ll notice that while the code itself is updated to use modern layout techniques, the overall design patterns used are a bit dated. Creating a multi-column layout and putting most content in the central column was all the rage in the mid-2000s, but by the 2010s the trend was to slice a web page into 5 to 20 big full-width sections, each with its own dedicated layout.
+Vous pourriez donc dire que cette version correspond aux tendances de mise en page de 2006 avec des techniques de codage 2020 (principalement CSS Grid).
 
-So you could say this version is 2006 layout trends with 2020 coding techniques (mostly CSS Grid).
+## Version 2008
 
-## 2008 version
+Le dossier `2008` contient les mises en page originales créées en 2008 avec des techniques compatibles avec Internet Explorer 6. Il y a beaucoup de `float` et `position : absolute`, quelques largeurs fixes et quelques images d’arrière-plan répétitives pour simuler des colonnes de hauteur égale. Aucune de ces mises en page n’est réactive.
 
-The `2008` folder contains the original layouts created in 2008 with techniques compatible with Internet Explorer 6. There is a lot of `float` and `position: absolute`, some fixed widths, and some repeating background images to simulate equal-height columns. None of those layouts are responsive.
+La version 2008 est présentée ici comme un artefact historique. Veuillez utiliser la version 2024 si vous souhaitez baser un design sur ces mises en page.
 
-The 2008 version is shown here as a historical artefact. Please use the 2024 version if you want to base a design on these layouts.
+## Licence
 
-## License
-
-Licensed under [Creative Commons BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/).
+Mis à disposition sous licence : [Creative Commons BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/).
